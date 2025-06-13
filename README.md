@@ -46,7 +46,15 @@ It performs:
 
 ### 🔹 Original PAN Card
 
-![Output Image](https://github.com/ridabayi/Pan-Card-Tampering-Detection/blob/main/output.png)
+![Original](static/demo/original.png)
+
+### 🔹 Tampered PAN Card
+
+![Tampered](static/demo/tampered.png)
+
+### 🔍 Detected Tampered Regions
+
+![Detected](static/demo/output.png)
 
 ---
 

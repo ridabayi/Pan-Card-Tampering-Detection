@@ -117,15 +117,3 @@ jupyter notebook PAN_Card_Tampering_SSIM_Advanced.ipynb
 - 🌍 Deploy to cloud (Render, HuggingFace Spaces, etc.)
 
 ---
-
-## 👨‍💻 Author
-
-**Rida Bayi**  
-🧠 Data Scientist · 🧰 MLOps Engineer · 🔐 AI for Cybersecurity  
-[LinkedIn](https://linkedin.com/in/ridabayi) · [GitHub](https://github.com/ridabayi)
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** – feel free to use and modify.
